@@ -1,0 +1,18 @@
+.posts {
+  width: 100%;
+  max-width: 60rem;
+  margin: var(--size-8) auto;
+  text-align: center;
+}
+
+.posts h2 {
+  font-size: var(--size-8);
+  color: #0c9a4c;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .posts h1 {
+    font-size: var(--size-16);
+  }
+}
