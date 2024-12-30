@@ -3,25 +3,15 @@ import PostHeader from "./post-header";
 import classes from "./post-content.module.css";
 import React, { useEffect } from "react";
 
-const DUMMY_POSTS = {
-  slug: "scalling",
-  title: "Scalling Gigi",
-  image: "scalling.jpg",
-  content:
-    "# Gigi rapi sempurna dengan perawatan oleh Ortodontis berpengalaman.",
-};
+function PostContent(props) {
+  const { post } = props;
 
-function PostContent() {
-  function PostDetail() {
-    useEffect(() => {}, []);
-  }
-
-  const imagePath = `/images/posts/${DUMMY_POSTS.slug}/${DUMMY_POSTS.image}`;
+  const imagePath = `/images/posts/${post.slug}/${post.image}`;
 
   return (
     <article className={classes.content}>
-      <PostHeader title={DUMMY_POSTS.title} image={imagePath} />
-      <ReactMarkdown>{DUMMY_POSTS.content}</ReactMarkdown>
+      <PostHeader title={post.title} image={imagePath} />
+      <ReactMarkdown>{post.content}</ReactMarkdown>
     </article>
   );
 }
