@@ -13,3 +13,6 @@ Manfaat bleaching gigi diantaranya:
 - Mengatasi perubahan warna gigi yang disebabkan oleh usia, gaya hidup, atau kebiasaan tertentu
 - Menghapus noda pada gigi yang disebabkan oleh makanan, minuman, atau kebiasaan menyikat gigi dan flossing yang tidak tepat
 - Mengurangi pertumbuhan bakteri yang dapat menyebabkan kerusakan gigi dan penyakit gusi
+
+Periksakan kondisi gigi dan konsultasikan hal ini pada dokter gigi.  
+Reservasi sekarang di **[FDC Dental Clinic](https://fdcdentalclinic.co.id/)** terdekat di kotamu!

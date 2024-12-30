@@ -17,3 +17,6 @@ Behel gigi dapat membantu mengatasi berbagai masalah gigi dan mulut, sehingga An
 - Masalah gusi
 - Karang gigi
 - Gigitan terbuka
+
+Periksakan kondisi gigi dan konsultasikan hal ini pada dokter gigi.  
+Reservasi sekarang di **[FDC Dental Clinic](https://fdcdentalclinic.co.id/)** terdekat di kotamu!
